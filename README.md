@@ -44,4 +44,6 @@ As the user selectes these are the forms that might occur
 11. View Prescription
 ![View Prescription](https://github.com/aniruddha1321/HMS/assets/163864346/3e4108f5-76a1-4468-bb74-59392995f9ff)
 
+12. Working Chatbot Image
+<img width="608" alt="Chatbot" src="https://github.com/aniruddha1321/HMS/assets/163864346/4ab5c460-d786-4436-a4f5-4ce73e2a94d1">
 
