@@ -7,7 +7,7 @@ challenges. The primary objectives are to:
 4. Enhance staff communication and management through a centralized system. 
 
 ## Technology Survey
-This project utilizes a combination of Java, JSwing, JDBC alnog with MySQL database seervices to develop the Hospital Management System (HMS).
+This project utilizes a combination of Java, JSwing, JDBC alnong with MySQL database services to develop the Hospital Management System (HMS).
 
 ## Documentation
 Includes infromation about implementation of project and explaination of technologies used in this project.
